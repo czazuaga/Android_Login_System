@@ -1,13 +1,13 @@
 package com.acme.loginsystem;
 
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 /**
  * Created by Carlos on 29/04/2016.
  */
-public class Welcome_Activity extends AppCompatActivity {
+public class Welcome_Activity extends Activity {
 
 
     private TextView textViewUserName;

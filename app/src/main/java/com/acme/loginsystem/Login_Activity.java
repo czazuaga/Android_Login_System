@@ -12,6 +12,8 @@ import my_resources.Alerts;
 public class Login_Activity extends Activity {
 
     private EditText editTextUserNameField;
+
+    
     private EditText editTextPasswordField;
 
     //These parameters may come from requests to the register users list from a database

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login System</string>
+    <string name="user_not_exist">The introduced user not exist</string>
+    <string name="insert_username">Insert a valid user name</string>
+</resources>
